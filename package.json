@@ -1,0 +1,29 @@
+{
+  "name": "mongoose_auto_increment",
+  "version": "1.0.0",
+  "description": "mongoose auto increment plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northlandsnow/mongoose_auto_increment.git"
+  },
+  "keywords": [
+    "mongoose",
+    "auto",
+    "increment",
+    "plugin"
+  ],
+  "author": "northlandsnow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northlandsnow/mongoose_auto_increment/issues"
+  },
+  "homepage": "https://github.com/northlandsnow/mongoose_auto_increment#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "mongoose": "^4.2.2"
+  }
+}
